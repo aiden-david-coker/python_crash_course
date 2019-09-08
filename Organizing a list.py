@@ -1,13 +1,7 @@
-# sorting a list
-#
-# sort() alphabetically
-# carpool = ['bmw', 'audi', 'toyota', 'subaru']
-# carpool.sort()
-# print(carpool)
-#
-# carpool.sort(reverse=True)
-# print(carpool)
-#
+# ----------------------------------------------------
+# ----------------------------------------------------
+# ----------------------------------------------------
+# ----------------------------------------------------
 # ----------------------------------------------------
 # Sort Temporarily
 # carpool = ['bmw', 'audi', 'toyota', 'subaru']
